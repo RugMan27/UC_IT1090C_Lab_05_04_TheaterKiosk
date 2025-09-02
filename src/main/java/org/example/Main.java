@@ -9,7 +9,7 @@ public class Main {
         String trash = "";
 
         // input
-        System.out.println("Enter your age: ");
+        System.out.print("Enter your age: ");
 
         //safe input
         if(in.hasNextInt()){
